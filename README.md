@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:varindersinghofficial338@gmail.com"><img src="https://img.shields.io/badge/Email-varindersinghofficial338%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/varinderssingh/"><img src="https://img.shields.io/badge/LinkedIn-Varinder%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/VarinderSingh68/My_Potfolio"><img src="https://img.shields.io/badge/Portfolio-Case%20studies%20%26%20resume-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Mohali%2C%20Punjab-India-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20roles-FF6F00?style=for-the-badge" alt="Open to work"/>
